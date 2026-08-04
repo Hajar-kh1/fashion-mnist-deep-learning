@@ -79,12 +79,6 @@ Shirt was the most difficult class, with an F1-score of `0.7067`. The primary er
 
 These classes have similar silhouettes and limited fine detail in the 28 × 28 grayscale images.
 
-## Project Files
-
-- `DL_Project.ipynb` — complete notebook containing code, outputs, experiments, evaluation, and report
-- `best_model.keras` — saved final Keras model
-- `final_model_architecture.png` — final network architecture diagram
-- `README.md` — project overview and results
 
 ## Running the Project
 
